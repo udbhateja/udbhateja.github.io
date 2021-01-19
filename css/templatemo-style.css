@@ -548,7 +548,7 @@ a#logo {
 .service-box h3 {
   font-size:22px;
   font-weight:700;
-  text-transform: capitalize;
+  text-transform: none;
   margin-bottom: 10px;
   padding: 10px;
 }
